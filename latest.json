@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "file": "IcebergClient.exe",
-  "size": 6750720,
-  "sha256": "525b583f9cce9e10414348f26f67bc3eb4b0cb7274265f00e1e932468a3c756d",
-  "notes": "Профиль по нажатию на ник: аватарка, смена пароля, настройки игры и обновлений."
+  "size": 7012864,
+  "sha256": "ec4927e0c517d6eeab945a94687bcbe44f0964c5ffd2a4bcbee3ca4ebd161b15",
+  "notes": "Версии 26.2 и 1.21.11. Кнопка «Запустить игру» открывает Minecraft с профилем Iceberg Client."
 }
